@@ -4,7 +4,7 @@ Develop an end-to-end Retrieval-Augmented Generation (RAG) system to create a 'D
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_dsxp4edsxp4edsxp.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/Gemini_Generated_Image_dsxp4edsxp4edsxp.jpg"
        alt="Project Preview"
        width="600" />
 </p>
@@ -12,7 +12,7 @@ Develop an end-to-end Retrieval-Augmented Generation (RAG) system to create a 'D
 ## System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/rag_architecture_1280x720_ZqlpAmj.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/rag_architecture_1280x720_ZqlpAmj.jpg"
        alt="System Architecture"
        width="600" />
 </p>
